@@ -1,4 +1,4 @@
-# Kafka Producer-Consumer Project
+# Stock Market Data Analysis Using Kafka
 
 This project demonstrates a Kafka-based data pipeline using Python. The pipeline consists of a producer that sends data to a Kafka topic and a consumer that retrieves data from the topic. It can be used for streaming real-time data, such as stock market updates, to downstream applications.
 
